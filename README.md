@@ -24,4 +24,5 @@ But we didn’t plan for runners that are exactly 18! We’ll handle that by the
 # Tasks
 
 #1 Race numbers are assigned randomly. We’ve provided the necessary code below:
+
 let raceNumber = Math.floor(Math.random() * 1000);
