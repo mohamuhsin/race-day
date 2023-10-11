@@ -60,3 +60,6 @@ For people who are under 18, log a statement to the console telling them that th
 #9 Don’t forget about runners exactly 18 years old!
 
 Add an else statement that logs a statement to the console telling the runner to see the registration desk.
+
+# Note
+After you have completed the tasks, push your code to github!
