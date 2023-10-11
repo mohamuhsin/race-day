@@ -42,3 +42,11 @@ Add 1000 to their raceNumber if this is true.
 #5 Create a separate control flow statement below the first (starting with if again). This statement will check age and registration time to determine race time.
 
 For runners over 18 who registered early, log a statement to the console telling them that they will race at 9:30 am. Include their raceNumber.
+
+#7 “Late adults run at 11:00 am”
+
+Since we already checked for early adults we can write a statement like this: else if runner is over 18 AND did not register early they will race at 11:00am
+
+Write the corresponding else if statement.
+
+Within that, log a string to the console telling them that they will race at 11:00 am. Include their raceNumber.
