@@ -30,3 +30,7 @@ let raceNumber = Math.floor(Math.random() * 1000);
 #2 Create a variable that indicates whether a runner registered early or not.
 
 Set it equal to a Boolean value. You’ll change this later as you test different runner conditions.
+
+#3 Create a variable for the runner’s age and set it equal to a number.
+
+You’ll change this later as you test different runner conditions.
