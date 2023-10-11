@@ -34,3 +34,7 @@ Set it equal to a Boolean value. You’ll change this later as you test differen
 #3 Create a variable for the runner’s age and set it equal to a number.
 
 You’ll change this later as you test different runner conditions.
+
+#4 Create a control flow statement that checks whether the runner is an adult AND registered early.
+
+Add 1000 to their raceNumber if this is true.
