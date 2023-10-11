@@ -38,3 +38,7 @@ You’ll change this later as you test different runner conditions.
 #4 Create a control flow statement that checks whether the runner is an adult AND registered early.
 
 Add 1000 to their raceNumber if this is true.
+
+#5 Create a separate control flow statement below the first (starting with if again). This statement will check age and registration time to determine race time.
+
+For runners over 18 who registered early, log a statement to the console telling them that they will race at 9:30 am. Include their raceNumber.
