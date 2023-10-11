@@ -54,3 +54,5 @@ Within that, log a string to the console telling them that they will race at 11:
 #8 “Youth registrants run at 12:30 pm (regardless of registration)”
 
 For people who are under 18, log a statement to the console telling them that they will race at 12:30 pm. Include their raceNumber.
+
+#9 Enter different combinations of values for the two variables you created and run your code several times. Verify that the correct statements are printing to the console!
