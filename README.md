@@ -43,7 +43,7 @@ Add 1000 to their raceNumber if this is true.
 
 For runners over 18 who registered early, log a statement to the console telling them that they will race at 9:30 am. Include their raceNumber.
 
-#7 “Late adults run at 11:00 am”
+#6 “Late adults run at 11:00 am”
 
 Since we already checked for early adults we can write a statement like this: else if runner is over 18 AND did not register early they will race at 11:00am
 
@@ -51,8 +51,12 @@ Write the corresponding else if statement.
 
 Within that, log a string to the console telling them that they will race at 11:00 am. Include their raceNumber.
 
-#8 “Youth registrants run at 12:30 pm (regardless of registration)”
+#7 “Youth registrants run at 12:30 pm (regardless of registration)”
 
 For people who are under 18, log a statement to the console telling them that they will race at 12:30 pm. Include their raceNumber.
 
-#9 Enter different combinations of values for the two variables you created and run your code several times. Verify that the correct statements are printing to the console!
+#8 Enter different combinations of values for the two variables you created and run your code several times. Verify that the correct statements are printing to the console!
+
+#9 Don’t forget about runners exactly 18 years old!
+
+Add an else statement that logs a statement to the console telling the runner to see the registration desk.
