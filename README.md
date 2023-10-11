@@ -50,3 +50,7 @@ Since we already checked for early adults we can write a statement like this: el
 Write the corresponding else if statement.
 
 Within that, log a string to the console telling them that they will race at 11:00 am. Include their raceNumber.
+
+#8 “Youth registrants run at 12:30 pm (regardless of registration)”
+
+For people who are under 18, log a statement to the console telling them that they will race at 12:30 pm. Include their raceNumber.
